@@ -20,24 +20,26 @@ The project exists as a control
 factor for the number of people who pass through a certain place. 
 determine the most profitable area in a more optimal way
 
-
 ## Capturas de pantalla
 [![train-Proyect.png](https://i.postimg.cc/tCx1cvJ4/train-Proyect.png)](https://postimg.cc/jLRdwXyp)
 ## Funcionalidades mas importantes
-Responder: ¿Cuales son las funcionalidades mas interesantes de tu proyecto?
-Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
+People are detected, separating them by a certain location and it is determined which place is more feasible through heat maps.
 
 ## Instalación
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con tu proyecto. 
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
+# Clone the model 
+!git clone https://github.com/ultralytics/yolov5  
+
+# install dependencies
+!pip install -U -r yolov5/requirements.txt  
 
 ## Creditos
--GROUP MEMBERS
-*Amancaya Mattaz Huampu
-+Cristian Peña Callisaya
--Simon Brayan Guaygua Pando
-*Wilson Choque Uruño
-+special thanks to
--Edwin Rene Salcedo Aliaga
+- GROUP MEMBERS
++ Amancaya Mattaz Huampu
++ Cristian Peña Callisaya
++ Simon Brayan Guaygua Pando
++ Wilson Choque Uruño
+- special thanks to
++ Edwin Rene Salcedo Aliaga
+- DATASET
+- https://www.crowdhuman.org/
 ## Licencia
