@@ -33,11 +33,11 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Creditos
-GROUP MEMBERS
-Amancaya Mattaz Huampu
-Cristian Peña Callisaya
-Simon Brayan Guaygua Pando
-Wilson Choque Uruño
-special thanks to
-Edwin Rene Salcedo Aliaga
+-GROUP MEMBERS
+*Amancaya Mattaz Huampu
++Cristian Peña Callisaya
+-Simon Brayan Guaygua Pando
+*Wilson Choque Uruño
++special thanks to
+-Edwin Rene Salcedo Aliaga
 ## Licencia
