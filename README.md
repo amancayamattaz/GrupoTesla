@@ -22,8 +22,7 @@ determine the most profitable area in a more optimal way
 
 
 ## Capturas de pantalla
-[train-Proyect.png](https://postimg.cc/jLRdwXyp)
-
+[![train-Proyect.png](https://i.postimg.cc/tCx1cvJ4/train-Proyect.png)](https://postimg.cc/jLRdwXyp)
 ## Funcionalidades mas importantes
 Responder: ¿Cuales son las funcionalidades mas interesantes de tu proyecto?
 Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
@@ -34,7 +33,11 @@ Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Creditos
-Nombrar a los participantes del equipo. Mencionar alguna libreria que fue util o sirvio de inspiración para prototipar el proyecto. 
-Nombrar a los participantes del equipo. Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
-
+GROUP MEMBERS
+Amancaya Mattaz Huampu
+Cristian Peña Callisaya
+Simon Brayan Guaygua Pando
+Wilson Choque Uruño
+special thanks to
+Edwin Rene Salcedo Aliaga
 ## Licencia
